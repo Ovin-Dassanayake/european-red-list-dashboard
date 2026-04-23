@@ -1,2 +1,2 @@
 # european-red-list-dashboard
-Interactive Streamlit Dashboard for European Red List 2024 Data
+An interactive analysis of biodiversity risk and conservation status across European species.
